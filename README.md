@@ -1,6 +1,6 @@
 - 🔭 I’m student @ KLS GIT
 - 🌱 I’m currently learning Web,AI/ML.
-- 👯 I’m looking to collaborate on open Source.
+- 👯 I’m looking to collaborate in open Source.
 - 💬 Ask me about Finance and Fitness.
 - 📫 How to reach me: www.linkedin.com/in/kunal-dulbaji
 - 😄 Pronouns:Daemon )
