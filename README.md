@@ -1,4 +1,4 @@
-- 🔭 I’m Final Yr student @ KLS GIT 
+
 - 🌱 I’m currently learning Web and AI/ML.
 - 👯 I’m looking to collaborate in open Source Projects.
 - 💬 Ask me about Finance and Fitness.
