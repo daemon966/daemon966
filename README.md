@@ -1,4 +1,3 @@
-
 I’m a final-year Computer Science student at KLS Gogte Institute of Technology, with hands-on experience in developing full-stack applications, analyzing real-world data, and solving over 130+ algorithmic problems on LeetCode. I’m passionate about building impactful tech solutions and continuously expanding my skill set in software development and AI/ML.
 
 🛠 Tech Stack:
