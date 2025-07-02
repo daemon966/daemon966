@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kunal Dulbaji</h1>
-<h3 align="center">Final Year CSE Student | AI/ML | Full-Stack Developer | Data Enthusiast</h3>
+<h3 align="center">Final Year CSE Student | AI/ML |Data Analysis | Data Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Final Year B.E. Computer Science @ KLS Gogte Institute of Technology (CGPA: 9.52)
+- 🎓 Final Year B.E. Computer Science @ KLS Gogte Institute of Technology.
 - 💡 Exploring AI/ML, Data Analysis, and Full-Stack Development
 - 🧠 Solved 130+ DSA problems on LeetCode
 - 🏆 Winner at national/state-level project expos & paper presentations
