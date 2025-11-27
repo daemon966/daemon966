@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Dulbaji</h1>
-<h3 align="center">Data Engineer Apprentice @ **Target** | AI/ML |Data Analysis | Data Enthusiast</h3>
+<h3 align="center">Data Engineer Apprentice @ Target | AI/ML |Data Analysis | Data Enthusiast</h3>
 
 ---
 
