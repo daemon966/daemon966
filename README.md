@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Final Year B.E. Computer Science @ KLS Gogte Institute of Technology.
+- 🎓Completed B.E. Computer Science @ **KLS Gogte Institute of Technology**.
 - 💡 Exploring AI/ML, Data Analysis, and Full-Stack Development
 - 🧠 Solved 130+ DSA problems on LeetCode
 - 🏆 Winner at national/state-level project expos & paper presentations
