@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kunal Dulbaji</h1>
-<h3 align="center">Data Engineer Apprentice @ Target | AI/ML |Data Analysis | Data Enthusiast</h3>
+<h3 align="center">Data Engineer @ Horizontal | AI/ML |Data Analysis | Gen AI</h3>
 
 ---
 
 ### 🚀 About Me
 - 🎓Completed B.E. Computer Science @ **KLS Gogte Institute of Technology**.
-- 💡 Exploring AI/ML, Data Analysis, and Full-Stack Development
+- 💡 Passionate Data Engineer 
 - 🧠 Solved 130+ DSA problems on LeetCode
 - 🏆 Winner at national/state-level project expos & paper presentations
 - 👨‍💻 Built impactful projects like **Shisha-Setu**, **Netflix EDA**, and **TenantFlow**
